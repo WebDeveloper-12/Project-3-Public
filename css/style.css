@@ -1,0 +1,17 @@
+body{
+    height: 5000px;
+}
+
+.section1{
+    background-image: url(images/header.png);
+    background-color: yellow;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 500px;
+}
+
+.typewrite{ 
+    color:black; 
+    text-decoration: none;
+}
